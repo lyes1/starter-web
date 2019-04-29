@@ -1,3 +1,5 @@
+A simple repo to start with Git and GitHub by following an Udemy course (Git Complete: The definitive, step-by-step guide to Git) created by Jason Taylor
+
 # Starter Web Repo
 
 This is a simple website project for showing how to use Git and Github together.
